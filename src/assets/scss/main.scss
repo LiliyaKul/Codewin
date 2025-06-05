@@ -1,0 +1,23 @@
+html, body {
+    height: 100%;
+    background-color: rgba(0, 1, 26, 1);
+}
+
+.el-carousel__button {
+    border-radius: 50%;
+    background-color: rgba(16, 120, 215, 1) !important;
+}
+
+a {
+    text-decoration: none;
+}
+
+$primary: rgba(0, 1, 26, 1);
+$dark-grey: rgba(18, 21, 35, 0.49);
+$white: rgba(255, 255, 255, 1);
+$grey: rgba(255, 255, 255, 0.3);
+$light-grey: rgba(255, 255, 255, 0.8);
+$light-grey-1: rgba(255, 255, 255, 0.5);
+$light-grey-2: rgba(255, 255, 255, 0.15);
+$blue: rgba(16, 120, 215, 1);
+$transparent: transparent;
